@@ -1,0 +1,14 @@
+[
+  {
+     "_id": "6c8994d8b1cad377eb9faaaa",
+     "name": "Steve",
+     "color": "Orange",
+     "number": 7
+  },
+  {
+     "_id": "7c8994d8b1cad377eb9faddd",
+     "name": "Jane",
+     "color": "Yellow",
+     "number": 42
+  }
+]

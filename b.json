@@ -1,0 +1,18 @@
+[
+  {
+     "_id": "5c8994d8b1cad377eb9fabbb",
+     "symbol": "V",
+     "name": "Vanadium",
+     "atomic number": 23,
+     "atomic weight": 50.9415,
+     "isotopes": [48, 49, 50, 51]
+  },
+  {
+     "_id": "5c8994d8b1cad377eb9faccc",
+     "symbol": "Sr",
+     "name": "Strontium",
+     "atomic number": 38,
+     "atomic weight": 87.62,
+     "isotopes": [82, 83, 84, 85, 86, 87, 88, 89, 90]
+  }
+]
